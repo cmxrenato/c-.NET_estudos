@@ -1,0 +1,15 @@
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\bin\Debug\net9.0\programa1.exe
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\bin\Debug\net9.0\programa1.deps.json
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\bin\Debug\net9.0\programa1.runtimeconfig.json
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\bin\Debug\net9.0\programa1.dll
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\bin\Debug\net9.0\programa1.pdb
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\programa1.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\programa1.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\programa1.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\programa1.sourcelink.json
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\programa1.dll
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\refint\programa1.dll
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\programa1.pdb
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\programa1.genruntimeconfig.cache
+C:\Users\renat\OneDrive\Documentos\c-.NET_estudos\exemploFundamentos\programa1\obj\Debug\net9.0\ref\programa1.dll
